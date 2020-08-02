@@ -19,7 +19,7 @@ public class Game extends Canvas implements Runnable{
 		handler = new Handler();
 		this.addKeyListener(new KeyInput(handler));
 		
-		new Window(WIDTH, HEIGHT, "Game", this);
+		new Window(WIDTH, HEIGHT, "Coin Chaser", this);
 		
 		hud = new HUD();
 		
