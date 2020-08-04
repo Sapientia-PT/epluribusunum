@@ -1,1 +1,1 @@
-A simple banking style program that helped me develop my skills.
+A simple banking style console program that helped me develop my skills.
